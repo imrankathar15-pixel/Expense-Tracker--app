@@ -1,2 +1,2 @@
-# Expense-Tracker--app
+# Expense-Tracker-app
 Daily Expenses Track 
